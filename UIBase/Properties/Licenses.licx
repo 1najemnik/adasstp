@@ -1,0 +1,14 @@
+Telerik.Windows.Controls.RadButton, Telerik.Windows.Controls, Version=2015.3.930.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7
+Telerik.Windows.Controls.RadPanelBar, Telerik.Windows.Controls.Navigation, Version=2015.3.930.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7
+Telerik.Windows.Controls.RadRadialMenu, Telerik.Windows.Controls.Navigation, Version=2015.3.930.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7
+Telerik.Windows.Controls.RadCalendar, Telerik.Windows.Controls.Input, Version=2015.3.930.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7
+Telerik.Windows.Controls.RadGridView, Telerik.Windows.Controls.GridView, Version=2015.3.930.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7
+Telerik.Windows.Controls.RadContextMenu, Telerik.Windows.Controls.Navigation, Version=2015.3.930.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7
+Telerik.Windows.Controls.RadMaskedTextInput, Telerik.Windows.Controls.Input, Version=2015.3.930.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7
+Telerik.Windows.Controls.RadNumericUpDown, Telerik.Windows.Controls.Input, Version=2015.3.930.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7
+Telerik.Windows.Controls.RadMaskedNumericInput, Telerik.Windows.Controls.Input, Version=2015.3.930.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7
+Telerik.Windows.Controls.RadMenu, Telerik.Windows.Controls.Navigation, Version=2015.3.930.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7
+Telerik.Windows.Controls.RadTileView, Telerik.Windows.Controls.Navigation, Version=2015.3.930.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7
+Telerik.Windows.Controls.RadTimeline, Telerik.Windows.Controls.DataVisualization, Version=2015.3.930.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7
+Telerik.Windows.Controls.RadListBox, Telerik.Windows.Controls, Version=2015.3.930.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7
+Telerik.Windows.Controls.RadSlider, Telerik.Windows.Controls, Version=2015.3.930.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7

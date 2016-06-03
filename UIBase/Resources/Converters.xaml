@@ -1,0 +1,8 @@
+﻿<ResourceDictionary 
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:viewModels="clr-namespace:UIBase.ViewModels">
+    <!--<EqualsConverter x:Key="EqualsConverter"/>
+    <BooleanConverter OnTrue="Visible" OnFalse="Collapsed" x:Key="BooleanToVisibilityConverter"/>
+    <BooleanConverter OnTrue="Collapsed" OnFalse="Visible" x:Key="BooleanToVisibilityInvertedConverter"/>-->
+</ResourceDictionary>
